@@ -21,10 +21,12 @@ Crafting effective prompts is key to increasing the quality of results from LLM-
 #### Topics Covered
 
 - Prompting Tips
-- Prompt Structure
+- System Prompt Structure
 - Advanced Prompting Techniques
 
-[View Mindmap as image](assets/GPT_Prompting_Advice.svg) or visualize it at the [Markmap Interactive Viewer](https://markmap.js.org/repl).
+Paste the content of the [GPT_Prompting_Advice.md](GPT_Prompting_Advice.md) file into the [Markmap Interactive Viewer](https://markmap.js.org/repl) for interactive visualization of:
+
+![GPT Prompting Advice](assets/GPT_Prompting_Advice.png)
 
 ## Contributing to the Repository
 
