@@ -1,6 +1,6 @@
 # Generative AI Mind Maps
 
-Welcome to the Generative AI Mind Maps repository! This repo is dedicated to exploring the fascinating world of Generative AI, focusing on best practices, diverse use cases, and pragmatic approaches for adopting LLMs (Large Language Models) into businesses. Here, you'll find insightful MindMaps, formatted using [Markmap](https://markmap.js.org/docs/markmap) to transform markdown files into interactive mind maps.
+Welcome to the Generative AI Mind Maps repository! This repo is dedicated to exploring the fascinating world of Generative AI, focusing on best practices, diverse use cases, and pragmatic approaches for adopting LLMs (Large Language Models) into businesses. Here, you'll find insightful MindMaps, formatted using [Markmap](https://markmap.js.org/) to transform markdown files into interactive mind maps.
 
 ## What You'll Find in This Repository
 
@@ -14,16 +14,17 @@ Welcome to the Generative AI Mind Maps repository! This repo is dedicated to exp
 
 ## Current Contributions
 
-#### GPT Prompting Advice
+### GPT Prompting Advice
 
 Crafting effective prompts is key to increasing the quality of results from LLM-based chatbots. Discover techniques to enhance your prompt-writing skills and obtain more precise and relevant responses from Large Language Models.
 
-**Topics Covered:**
+#### Topics Covered
+
 - Prompting Tips
 - Prompt Structure
 - Advanced Prompting Techniques
 
-[View Mindmap as image](GPT_Prompting_Advice.svg) or visualize it at the [Markmap Interactive Viewer](https://markmap.js.org/repl).
+[View Mindmap as image](assets/GPT_Prompting_Advice.svg) or visualize it at the [Markmap Interactive Viewer](https://markmap.js.org/repl).
 
 ## Contributing to the Repository
 
