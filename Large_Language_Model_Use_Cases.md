@@ -12,7 +12,7 @@
 
 ## [What are LLMs good for?](https://www.youtube.com/watch?v=aq7fnqzeaPc)
 
-### Reduction Operations: Go from big to small
+### 1.Reduction Operations: Go from big to small
 
 - Summarization
   - Say the same thing with fewer words.
@@ -42,7 +42,7 @@
   - Provide feedback within the context of the text.
   - Provide recommendations for improvement
 
-### Transformation Operations: Maintain size and/or meaning
+### 2. Transformation Operations: Maintain size and/or meaning
 
 - Reformatting
   - Change the presentation only.
@@ -68,7 +68,7 @@
   - Make something more comprehensible.
   - Embellish or more clearly articulate.
 
-### Generation/Expansion Operations: Go from small to big
+### 3. Generation/Expansion Operations: Go from small to big
 
 - Drafting
   - Generate a draft of some kind of document.
@@ -130,7 +130,8 @@
    - Audio file categorization
    - Product review summaries
    - Email categorization
-   - Analyze data, Exploratory Data Analysis (EDA), Data quality & governance
+   - Analyze data, Exploratory Data Analysis (EDA)
+   - Data quality & governance
 
 3. Generate ideas
    - Thought partner
@@ -150,7 +151,7 @@
 
 ## [Pragrmatic Mindset to kickstarting *any* project](https://ben11kehoe.medium.com/serverless-is-a-state-of-mind-717ef2088b42)
 
-- If the platform has it, use it
-- If the market has it, buy it
-- If you can reconsider requirements, do it
-- If you have to build it, own it
+1. If the platform has it, use it
+2. If the market has it, buy it
+3. If you can reconsider requirements, do it
+4. If you have to build it, own it
