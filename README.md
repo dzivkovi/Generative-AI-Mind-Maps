@@ -14,7 +14,7 @@ Grasping the key terms and concepts in Generative AI is essential, and fortunate
 
 ![Generative AI Terminology](assets/Generative_AI_Terminology.png)
 
-Paste the content of the [Generative_AI_Terminology.md](Generative_AI_Terminology.md) file into the [Markmap Interactive Viewer](https://markmap.js.org/repl) for interactive visualization.
+For interactive visualization, either open the [SVG file](https://raw.githubusercontent.com/dzivkovi/Generative-AI-Mind-Maps/main/assets/Generative_AI_Terminology.svg) directly or paste the content of the [Generative_AI_Terminology.md](Generative_AI_Terminology.md) file into the [Markmap Interactive Viewer](https://markmap.js.org/repl).
 
 ### Pragmatic Approaches to GenAI Adoption w/ LLM Use Cases
 
@@ -22,7 +22,7 @@ Explore the diverse capabilities of Large Language Models as a springboard for i
 
 ![LLM Use Cases](assets/Large_Language_Model_Use_Cases.png)
 
-Paste the content of the [Large_Language_Model_Use_Cases.md](Large_Language_Model_Use_Cases.md) file into the [Markmap Interactive Viewer](https://markmap.js.org/repl) for interactive visualization.
+For interactive visualization, either open the [SVG file](https://raw.githubusercontent.com/dzivkovi/Generative-AI-Mind-Maps/main/assets/Large_Language_Model_Use_Cases.svg) directly or paste the content of the [Large_Language_Model_Use_Cases.md](Large_Language_Model_Use_Cases.md) file into the [Markmap Interactive Viewer](https://markmap.js.org/repl).
 
 ### GPT Prompting Advice
 
@@ -30,7 +30,7 @@ Uncover essential insights and best practices for effectively navigating through
 
 ![GPT Prompting Advice](assets/GPT_Prompting_Advice.png)
 
-Paste the content of the [GPT_Prompting_Advice.md](GPT_Prompting_Advice.md) file into the [Markmap Interactive Viewer](https://markmap.js.org/repl) for interactive visualization.
+For interactive visualization, either open the [SVG file](https://raw.githubusercontent.com/dzivkovi/Generative-AI-Mind-Maps/main/assets/GPT_Prompting_Advice.svg) directly or paste the content of the [GPT_Prompting_Advice.md](GPT_Prompting_Advice.md) file into the [Markmap Interactive Viewer](https://markmap.js.org/repl).
 
 ## Contributing to the Repository
 
