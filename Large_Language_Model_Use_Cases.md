@@ -2,13 +2,13 @@
 
 [Visualize Markdown as MindMap](https://markmap.js.org/repl)
 
-## Why all the excitment about Large Language Models?
+## Why All the Excitement About Large Language Models?
 
 1. English as the new Programming Language!
-2. World knowledge (up to the training cutover date)
-3. You don't need specialised/expensive AI/ML Enginieers.
-4. You don't have to re-train the foundation models to do things, you can
-5. use your Domain Knowledge to adapt LLMs to specific Business Tasks/Domains.
+2. World knowledge (up to the training cutover date).
+3. You don't need as many specialized/expensive AI/ML Engineers.
+4. No need to re-train the foundation models for new tasks.
+5. Use your domain knowledge to adapt LLMs to specific business tasks/domains.
 
 ## [What are LLMs good for?](https://www.youtube.com/watch?v=aq7fnqzeaPc)
 
@@ -79,8 +79,8 @@
   - Actions, projects, objectives, missions, constraints, context.
 
 - Brainstorming
-  - Use imagine to list out possibilities.
   - Ideation, exploration of possibilities, problem solving, hypothesizing.
+  - Use "Imagine" to list out possibilities.
 
 - Amplification
   - Articulate and explicate something further.
@@ -96,8 +96,8 @@
   - Prompt Leaking
   - Jailbreaking
 - [Bias and Toxicity](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec14.pdf)
-- Testng is hard
-  - Non-deterministic LLM optupt
+- Testing is hard
+  - Non-deterministic LLM output
 
 ## [Generative AI Business Strategy](https://www.sectionschool.com/courses/generative-ai-business-strategy)
 
