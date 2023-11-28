@@ -2,31 +2,35 @@
 
 Welcome to the Generative AI Mind Maps repository! This repo is dedicated to exploring the fascinating world of Generative AI, focusing on best practices, diverse use cases, and pragmatic approaches for adopting LLMs (Large Language Models) into businesses. Here, you'll find insightful MindMaps, formatted using [Markmap](https://markmap.js.org/) to transform markdown files into interactive mind maps.
 
+Learn the do's and don'ts in the realm of Generative AI.
+
 ## What You'll Find in This Repository
 
-1. **GPT Prompting Advice:** A comprehensive resource for effectively communicating with AI models, particularly GPT. This section covers everything from basic prompting tips to advanced techniques, ensuring you get the most out of your interactions with AI.
+Designed to help businesses adopt AI in a practical, efficient, and cost-effective manner, emphasizing a Serverless/Pragmatic Mindset, these Mindmaps will ease your journey through the maze of possibilities when integrating Generative AI into your business.
 
-2. **Use Cases and Applications:** Discover how Generative AI is revolutionizing various industries. From content creation to complex problem-solving, these mind maps will help you understand the practical applications of AI in the business world.
+### Basic Generative AI Terminology
 
-3. **Best Practices:** Learn the do's and don'ts in the realm of Generative AI. This section is continuously updated to reflect the latest findings and ethical considerations in AI usage.
+The key terms and concepts in the field of Generative AI:
 
-4. **Pragmatic Approaches to AI Adoption:** Designed to help businesses adopt AI in a practical, efficient, and cost-effective manner. Emphasizing a "Serverless Mindset," it guides you through integrating AI into your business processes without the need for extensive infrastructure changes.
+![Generative AI Terminology](assets/Generative_AI_Terminology.png)
 
-## Current Contributions
+Paste the content of the [Generative_AI_Terminology.md](Generative_AI_Terminology.md) file into the [Markmap Interactive Viewer](https://markmap.js.org/repl) for interactive visualization.
+
+### Pragmatic Approaches to GenAI Adoption w/ LLM Use Cases
+
+Explore the diverse applications and capabilities of Large Language Models in various domains and industries:
+
+![LLM Use Cases](assets/Large_Language_Model_Use_Cases.png)
+
+Paste the content of the [Large_Language_Model_Use_Cases.md](Large_Language_Model_Use_Cases.md) file into the [Markmap Interactive Viewer](https://markmap.js.org/repl) for interactive visualization.
 
 ### GPT Prompting Advice
 
-Crafting effective prompts is key to increasing the quality of results from LLM-based chatbots. Discover techniques to enhance your prompt-writing skills and obtain more precise and relevant responses from Large Language Models.
-
-#### Topics Covered
-
-- Prompting Tips
-- System Prompt Structure
-- Advanced Prompting Techniques
-
-Paste the content of the [GPT_Prompting_Advice.md](GPT_Prompting_Advice.md) file into the [Markmap Interactive Viewer](https://markmap.js.org/repl) for interactive visualization of:
+Key "golden nugets" in the sea of "me too" noise cluttering the Internet, ensuring you get the most out of your interactions with Genetive AI:
 
 ![GPT Prompting Advice](assets/GPT_Prompting_Advice.png)
+
+Paste the content of the [GPT_Prompting_Advice.md](GPT_Prompting_Advice.md) file into the [Markmap Interactive Viewer](https://markmap.js.org/repl) for interactive visualization.
 
 ## Contributing to the Repository
 
