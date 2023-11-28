@@ -6,11 +6,11 @@ Learn the do's and don'ts in the realm of Generative AI.
 
 ## What You'll Find in This Repository
 
-Designed to help businesses adopt AI in a practical, efficient, and cost-effective manner, emphasizing a Serverless/Pragmatic Mindset, these Mindmaps will ease your journey through the maze of possibilities when integrating Generative AI into your business.
+Designed to help businesses adopt AI in a practical, efficient, and cost-effective manner, emphasizing a Serverless/Pragmatic Mindset, these Mindmaps will guide you through integrating Generative AI into your business processes.
 
 ### Basic Generative AI Terminology
 
-The key terms and concepts in the field of Generative AI:
+Understand the key terms and concepts in the field of Generative AI:
 
 ![Generative AI Terminology](assets/Generative_AI_Terminology.png)
 
@@ -26,7 +26,7 @@ Paste the content of the [Large_Language_Model_Use_Cases.md](Large_Language_Mode
 
 ### GPT Prompting Advice
 
-Key "golden nugets" in the sea of "me too" noise cluttering the Internet, ensuring you get the most out of your interactions with Genetive AI:
+Key insights and best practices to enhance your interactions with Generative AI:
 
 ![GPT Prompting Advice](assets/GPT_Prompting_Advice.png)
 
